@@ -1,0 +1,10 @@
+#navbar{
+ background: #696969;
+ text-decoration: none;
+ color: #ffffff ;
+ margin: 0px;
+}
+#navbar:visited{
+ color: #ffffff;
+ text-decoration: none;
+}
